@@ -1,6 +1,6 @@
 Hi! I'm @VladimirSapozhnikov
 - Data Science student at the University of Warwick
-- Interested in using machine learning tools for predictive analytics  
+- Interested data analysis and predictive analytics  
 - Currently working on various projects from the DataQuest bootcamp as well as from other platforms 
 - I can be reached via email at spz.vlad@gmail.com
 
