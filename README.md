@@ -1,8 +1,8 @@
 Hi! I'm @VladimirSapozhnikov
 - Data Science student at the University of Warwick
-- Interested data analysis and predictive analytics  
-- Currently working on various projects from the DataQuest bootcamp as well as from other platforms 
-- I can be reached via email at spz.vlad@gmail.com
+- Interested in machine learning and predictive analytics  
+- Currently working on various projects from the DataQuest bootcamp as well as my final year university project
+- I can be reached via email at v.sapozhnikov02@gmail.com
 
 <!---
 VladimirSapozhnikov/VladimirSapozhnikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
